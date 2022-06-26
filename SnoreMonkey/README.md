@@ -11,3 +11,6 @@ Complete with
 
 To use the mod, download the .dll file and add it to your mod folder
 
+To Do List
+- Better Models
+- Paragon?
