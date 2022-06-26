@@ -1,5 +1,5 @@
 
-The Boomerang Monkey fell asleep again, luck he's a heavy sleeper
+The Boomerang Monkey fell asleep again, lucky he's a heavy sleeper
 
 
 - The Snore Monkey
@@ -10,3 +10,4 @@ Complete with
 - Custom projectiles
 
 To use the mod, download the .dll file and add it to your mod folder
+
