@@ -25,9 +25,9 @@ Here is all my currently released BTD6 mods consisting of
            The Minions have arrived in BTD6. Fight bloons with these banana throwing machines. <a href="https://www.youtube.com/watch?v=DuS_dgN4mKw&t=7s">Showcase Video Here</a> <br>REQUIRES <a href="https://github.com/gurrenm3/BTD-Mod-Helper/releases/latest">MOD HELPER</a>
         </td>
         <td width="20%">
-            <a href="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/SnoreMonkey/SnoreMonkey.dll"><img alt="Download" src="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/download.png?raw=true"></a>
+            <a href="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/MinionMods/MinionsMod.dll"><img alt="Download" src="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/download.png?raw=true"></a>
         </td>
         <td width="20%" align="center">
-            <a href="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/SnoreMonkey/SnoreMonkey.dll"><img alt="Download" src="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/info.png?raw=true"></a> <br> Not Open-Source
+            <a href="https://github.com/Commander-Cat101/BloonsTD6-Mods/tree/main/MinionMods"><img alt="Download" src="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/info.png?raw=true"></a> <br> Not Open-Source
         </td>
     </td>
