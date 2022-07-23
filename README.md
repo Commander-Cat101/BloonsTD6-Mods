@@ -2,8 +2,6 @@
 
 Here is all my currently released BTD6 mods consisting of
 
-- Mods 
-
 <table style="table-layout:fixed">
     <tr>
         <td width="25%" align="center">
