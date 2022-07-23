@@ -1,6 +1,6 @@
 # BloonsTD6-Mods
 
-Here is all my currently released BTD6 mods consisting of
+Here are all my currently released BTD6 mods consisting of
 
 <table style="table-layout:fixed">
     <tr>
