@@ -19,7 +19,6 @@ Here is all my currently released BTD6 mods consisting of
             <a href="https://github.com/doombubbles/ultimate-crosspathing/blob/main/UltimateCrosspathing.dll">Source Code Here</a> <br> <u>DO NOT DOWNLOAD
         </td>
     </td>
-<table style="table-layout:fixed">
     <tr>
         <td width="25%" align="center">
             <h2>Snore Monkey</h2>
