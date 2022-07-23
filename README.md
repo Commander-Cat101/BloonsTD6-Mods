@@ -30,6 +30,6 @@ Here is all my currently released BTD6 mods consisting of
             <a href="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/SnoreMonkey/SnoreMonkey.dll"><img alt="Download" src="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/download.png?raw=true"></a>
         </td>
         <td width="20%" align="center">
-            <a href="https://github.com/doombubbles/ultimate-crosspathing/blob/main/UltimateCrosspathing.dll">Source Code Here</a> <br> <u>DO NOT DOWNLOAD
+            <a href="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/SnoreMonkey/SnoreMonkey.dll"><img alt="Download" src="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/info.png?raw=true"></a> <br> Not Open-Source
         </td>
     </td>
