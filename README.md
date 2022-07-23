@@ -10,7 +10,7 @@ Here is all my currently released BTD6 mods consisting of
             <h2>Snore Monkey</h2>
         </td>
         <td>
-           A young engineer monkey that took up gun fighting. Can be upgraded to have a Machine gun, To bear powerful ammunation, or the ultimate support machine. Comes with Ultimate crosspathing support. 
+           After a long day of fighting the boomerang monkey fell asleep on the battlefield. 15 Upgrades varying from map wide range to a insane snoring machine gun. Comes with <a href="[https://github.com/gurrenm3/BTD-Mod-Helper/releases/latest](https://github.com/doombubbles/ultimate-crosspathing/blob/main/UltimateCrosspathing.dll)">Ultimate Crosspathing</a> support 
         </td>
         <td width="25%">
             <a href="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/SnoreMonkey/SnoreMonkey.dll"><img alt="Download" src="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/download.png?raw=true"></a>
