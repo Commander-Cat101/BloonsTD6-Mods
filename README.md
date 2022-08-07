@@ -47,10 +47,10 @@ Here are all my currently released BTD6 mods consisting of
     </td>
     <tr>
         <td width="25%" align="center">
-            <h2>The Time Travelery</h2>
+            <h2>The Time Traveler</h2>
         </td>
         <td>
-           The sheriff is in town, 15 upgrades so you can, taser, freeze, and monetize the bloons. Also comes with custom models. <a href="https://www.youtube.com/watch?v=fWdYoNrdTG4&t=48s&ab_channel=Tewtiy">Showcase Video Here</a> <br> <br> Dependencies : <br> REQUIRES <a href="https://github.com/gurrenm3/BTD-Mod-Helper/releases/latest">MOD HELPER</a>
+           The Time traveler is here, 15 upgrades so you can see the, past, future, and present. Also comes with custom models. <br> <br> Dependencies : <br> REQUIRES <a href="https://github.com/gurrenm3/BTD-Mod-Helper/releases/latest">MOD HELPER</a>
         </td>
         <td width="17.5%">
             <a href="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/SherrifMonkey/Sherrif.dll"><img alt="Download" src="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/download.png?raw=true"></a>
