@@ -50,7 +50,7 @@ Here are all my currently released BTD6 mods consisting of
             <h2>The Time Traveler</h2>
         </td>
         <td>
-           The Time traveler is here, 15 upgrades so you can see the, past, future, and present. Also comes with custom models. <br> <br> Dependencies : <br> REQUIRES <a href="https://github.com/gurrenm3/BTD-Mod-Helper/releases/latest">MOD HELPER</a>
+           The Time traveler is here, 15 upgrades so you can see the, past, future, and present. Also comes with custom models. (Updated for 32.0) <br> <br> Dependencies : <br> REQUIRES <a href="https://github.com/gurrenm3/BTD-Mod-Helper/releases/latest">MOD HELPER</a>
         </td>
         <td width="17.5%">
             <a href="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/SherrifMonkey/Sherrif.dll"><img alt="Download" src="https://github.com/Commander-Cat101/BloonsTD6-Mods/blob/main/download.png?raw=true"></a>
